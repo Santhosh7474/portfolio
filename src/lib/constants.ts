@@ -6,7 +6,7 @@ export const SITE_CONFIG = {
   name: 'Santhosh',
   tagline: 'I craft digital experiences that feel alive',
   roles: ['Full Stack Developer', 'Flutter Engineer', 'Open Source Builder', 'UI/UX Craftsman'],
-  email: 'buchalasantos@gmail.com',
+  email: 'buchalasanthosh@gmail.com',
   github: 'https://github.com/Santhosh7474',
   linkedin: 'https://www.linkedin.com/in/buchala-santhosh/',
   twitter: '',
